@@ -1,3 +1,3 @@
-# Twitter-Clone-App
+# Twitter Clone App
 
 ### Project Screenshots
