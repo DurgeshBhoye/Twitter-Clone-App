@@ -1,0 +1,18 @@
+.side-component {
+    height: 100vh;
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+
+.sidebar-link li {
+    border-radius: 50px;
+}
+
+.sidebar-link li:hover {
+    background: lightblue;
+}
+
+.sidebar-link li:active {
+    background: rgb(222, 222, 222);
+}

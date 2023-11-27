@@ -1,0 +1,38 @@
+.header-photo img {
+    max-width: 100%;
+    height: auto;
+}
+
+.profile {
+    margin: 0;
+    padding: 20px;
+}
+
+.prof-pic-and-buttons-row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.prof-pic {
+    overflow: hidden;
+    width: 120px;
+    height: 120px;
+    margin: -85px 0;
+    border-radius: 50%;
+}
+
+.prof-pic img {
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+    cursor: pointer;
+    inset: 0;
+}
+
+#datepicker {
+    border: none;
+    outline: none;
+}

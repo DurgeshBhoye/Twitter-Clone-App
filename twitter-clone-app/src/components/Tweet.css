@@ -1,0 +1,19 @@
+.deletes:hover,
+.liked:hover,
+.commented:hover,
+.retweeted:hover {
+    background: lightblue;
+}
+
+.deletes,
+.liked,
+.commented,
+.retweeted {
+    padding: 5px 13px;
+    border-radius: 5px;
+}
+
+.single-tweet-card:hover {
+    background: rgb(233, 240, 240);
+    transition: 0.3s;
+}
