@@ -23,5 +23,12 @@
 
 
 ### Project Screenshots
-
-![Home Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/HomeScreen.jpg?raw=true "Home Page")
+<img src="img/Screenshot 00002.jpg" alt="Sign up page">
+<img src="img/Screenshot 001.jpg" alt="Login page">
+<img src="img/Screenshot 01.jpg" alt="Post Tweet">
+<img src="img/Screenshot 1.jpg" alt="Home page">
+<img src="img/Screenshot 3.jpg" alt="User Profile page">
+<img src="img/Screenshot 4.jpg" alt="Edit profile pic">
+<img src="img/Screenshot 7.jpg" alt="profile page">
+<img src="img/Screenshot 8.jpg" alt="current user posts page">
+<img src="img/Screenshot 11.jpg" alt="Tweet details page">
